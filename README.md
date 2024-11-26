@@ -1,5 +1,7 @@
 # Fil-C 0.667
 
+![Screenshot_20241126_085419_Chrome.jpg](great thing)
+
 This is a spare-time personal project that I'm doing for fun. It's called
 Fil-C.
 
